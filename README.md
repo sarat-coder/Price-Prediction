@@ -183,6 +183,9 @@ housing_cat_encoded=ordinal_encoder.fit_transform(housing_cat)
     * COMBINEATTRIBUTEADDER (CUSTOMIZED ONE)
     * STANDARD SCALLER.
 ### THEN WE WILL USE COLUMNTRANSFORMER TO HANDLE BOTH NUM AND CATEGORICAL FIELDS (ONEHOT ENCODING)
+
+![image](https://user-images.githubusercontent.com/65825617/124797675-27ae5600-df70-11eb-9bb9-d038db31a726.png)
+
 -----------------------------------
 
 # Selecting and Training the Model
